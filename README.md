@@ -2,7 +2,7 @@
 
 # Hi there 👋 I'm Tan Qi Xian
 
-### 💻 Computer Science Student | Full Stack Developer | Linux Enthusiast
+### 🎓Computer Science Student @ University of Southampton
 
 I'm passionate about building practical software, learning new technologies, and creating solutions that make everyday tasks easier.
 
